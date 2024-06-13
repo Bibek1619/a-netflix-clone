@@ -222,7 +222,7 @@ section.first>div :nth-child(2) {
 .faqbox {
 
 
-    transition: all 2s ease-out;
+    transition: all 1s ease;
     justify-content: space-between;
 
     justify-content: space-between;
